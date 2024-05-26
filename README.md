@@ -2,6 +2,7 @@
 
 - Depth-first traversals can be prefixed, infixed or suffixed. The depth-first traversals are as follows:
 
+- Given an array of integers A = [100, 20, 30, 150, 110, 10, 25, 45, 160, 200]
 ### ***Prefix (or pre-order):*** 
 ###### Visit node, then left subtree, then right subtree.
 > ***Result for A:*** 100, 20, 10, 5, 30, 25, 45, 150, 110, 120, 160, 200.
